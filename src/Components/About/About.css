@@ -1,0 +1,12 @@
+.cnt {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #111111 !important;
+  color: #fff !important;
+  height: 90vh;
+}
+
+.aboutIntroduction {
+  flex: 0.9;
+}

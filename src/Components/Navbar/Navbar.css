@@ -1,0 +1,14 @@
+.arrange {
+  display: flex;
+  justify-content: space-between;
+  background-color: #242424 !important;
+}
+.logo {
+  flex: 0.8;
+}
+.menu {
+  flex: 0.1;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 1rem;
+}
